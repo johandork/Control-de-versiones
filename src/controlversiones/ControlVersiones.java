@@ -17,6 +17,7 @@ public class ControlVersiones {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Control de versiones!");
+        System.out.println("Este es el cambio de versión");
     }
     
 }
